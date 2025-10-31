@@ -61,11 +61,11 @@ header {
 
 #header-contact a {
     text-decoration: none;
-    color: #D3C6F1
+    color: #000000
 }
 
 #header-contact a:hover {
-    color: #D3C6F1;
+    color: #000000;
 }
 
 #header-contact i {
